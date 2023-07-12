@@ -3,7 +3,7 @@
 ### MEIOS DE CONTATO
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wanderson2.5)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](emailto:wandersonmoraisdesousa@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wandersonmoraisdesousa@gmail.com)
 
 ## tecnologias que eu uso
 
